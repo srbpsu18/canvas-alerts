@@ -1,0 +1,45 @@
+name: Canvas Digest
+
+on:
+  schedule:
+    # Morning: 8am ET (two crons for DST)
+    - cron: '0 13 * * *'   # 1pm UTC = 8am EST (Nov-Mar)
+    - cron: '0 12 * * *'   # 12pm UTC = 8am EDT (Mar-Nov)
+    # Evening: 8pm ET
+    - cron: '0 1 * * *'    # 1am UTC = 8pm EST (Nov-Mar)
+    - cron: '0 0 * * *'    # 12am UTC = 8pm EDT (Mar-Nov)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'morning or evening'
+        default: 'morning'
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          CANVAS_API_TOKEN: ${{ secrets.CANVAS_API_TOKEN }}
+          CANVAS_BASE_URL: ${{ secrets.CANVAS_BASE_URL }}
+          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
+          DIGEST_MODE: ${{ github.event.inputs.mode || '' }}
+        run: python canvas_alerts.py
+
+      - name: Commit state
+        run: |
+          git config user.name "canvas-alerts[bot]"
+          git config user.email "actions@github.com"
+          git pull --rebase || true
+          git add state.json
+          git diff --cached --quiet || (git commit -m "update state" && git push)
