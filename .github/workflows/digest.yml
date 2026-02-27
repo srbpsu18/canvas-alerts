@@ -14,6 +14,9 @@ on:
         description: 'morning or evening'
         default: 'morning'
 
+permissions:
+  contents: write
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -40,6 +43,5 @@ jobs:
         run: |
           git config user.name "canvas-alerts[bot]"
           git config user.email "actions@github.com"
-          git pull --rebase || true
           git add state.json
-          git diff --cached --quiet || (git commit -m "update state" && git push)
+          git diff --cached --quiet || (git commit -m "update state" && git pull --rebase && git push)
