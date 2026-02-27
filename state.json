@@ -1,5 +1,2088 @@
 {
-  "last_morning_run": null,
+  "last_morning_run": "2026-02-27T00:23:02.426826-05:00",
   "last_evening_run": null,
-  "seen_assignments": {}
+  "seen_assignments": {
+    "16884851": {
+      "name": "Diagnostic Questionnaire",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-16T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884903": {
+      "name": "Orientation Quiz about Syllabus and Policies",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-19T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884846": {
+      "name": "Academic Integrity Form",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-19T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884820": {
+      "name": "L9.3.0.1 Typing Spanish Accents",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884805": {
+      "name": "L9.3.1.1 Los gustos de Malena y sus amigos (Grammar: Gustar)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884785": {
+      "name": "L9.3.1.2 Otros gustos de Malena y sus amigos (Grammar: Gustar)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884744": {
+      "name": "L9.3.1.3 Los amigos de Malena (Grammar: Gustar and similar verbs)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884778": {
+      "name": "L9.3.1.4 De compras (Grammar: Gustar and similar verbs)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884810": {
+      "name": "L9.3.2.1 Malena y sus amigos (Grammar: Present tense)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884791": {
+      "name": "L9.3.2.2 \u00bfQu\u00e9 tienen que hacer? (Grammar: Present tense)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884799": {
+      "name": "L9.3.2.3 La rutina diaria de Hugo (Grammar: Reflexive verbs)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884748": {
+      "name": "L9.3.2.4 El amigo de Hugo (Grammar: Reflexive verbs)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884802": {
+      "name": "L9.3.3.1 \u00bfQu\u00e9 van a hacer? (Grammar: Ir + a + infinitive)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884808": {
+      "name": "L9.3.3.2 \u00a1Vamos a divertirnos! (Grammar: Ir + a + infinitive)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884780": {
+      "name": "L9.3.4.1 El s\u00e1bado pasado (Grammar: Preterit)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884721": {
+      "name": "L9.3.4.2 En el gimnasio (Grammar: Preterit)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884813": {
+      "name": "L9.3.5.1 En la escuela primaria (Grammar: Imperfect)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884796": {
+      "name": "L9.3.5.2 La clase de espa\u00f1ol (Grammar: Imperfect)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884723": {
+      "name": "L9.3.6.1 La vida de Anita (Grammar: Preterit vs. imperfect)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884783": {
+      "name": "L9.3.6.2 Los veranos (Grammar: Preterit vs. imperfect)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884739": {
+      "name": "L9.3.7.1 Consejos (Grammar: Formal commands)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884787": {
+      "name": "L9.3.7.2 M\u00e1s consejos (Grammar: Formal commands)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884825": {
+      "name": "L9.3.7.3 Recomendaciones (Grammar: Formal commands)",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-01-26T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884774": {
+      "name": "SPAN 3 Exam 1 v1- Requires Respondus LockDown Browser",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-02-18T11:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884763": {
+      "name": "SPAN 3 Exam 2 v1- Requires Respondus LockDown Browser",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-03-27T18:30:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16884735": {
+      "name": "SPAN 3 Exam 3 v1- Requires Respondus LockDown Browser",
+      "course": "[25SP] SPAN 3 (UP, Margaret Liegel) Sec 4, 11, 20: Inmd Span III",
+      "due_at": "2025-04-29T14:30:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849492": {
+      "name": "Smeal Mock Career Fair",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-02-05T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849483": {
+      "name": "In-person and Virtual Networking Assignment",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-03-28T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849489": {
+      "name": "Resume Drop-in",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-02-26T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849491": {
+      "name": "Resume Submissions (2)",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-03-06T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849486": {
+      "name": "OPTIONAL - Resume Scholarship ",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-03-17T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849481": {
+      "name": "Cover Letter Submission",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-04-10T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849485": {
+      "name": "Mock Interview Appointment/Drop-in",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-03-06T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849493": {
+      "name": "Virtual Interview Practice with InterviewPrep",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-04-09T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849488": {
+      "name": "Professional Skill Building (floating assignment that takes place during entire semester)",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-04-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849478": {
+      "name": "Class Attendance",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-04-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16849482": {
+      "name": "Extra Credit: Attendance in the last class",
+      "course": "BA 297, Section 005: Special Topics (22511--UP---P-BA------297-------005-)",
+      "due_at": "2025-04-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513939": {
+      "name": "Pre-class 1: Introduction to Energy and the Environment",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-03T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513943": {
+      "name": "Pre-class 2: Energy, Power, and Efficiency",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-10T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513934": {
+      "name": "Pre-class 3: Coal",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-19T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513947": {
+      "name": "Pre-class 4: Petroleum",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-29T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513928": {
+      "name": "Pre-class 5: Natural Gas",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-06T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513930": {
+      "name": "Pre-class 6: Climate Change",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-15T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513917": {
+      "name": "Pre-class 7: Nuclear Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513949": {
+      "name": "Pre-class 8: Wind Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-05T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513891": {
+      "name": "Pre-class 9: Solar Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-08T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513936": {
+      "name": "Pre-class 10: Hydropower",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-13T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513935": {
+      "name": "Pre-class 11: Biomass and Geothermal",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-17T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513933": {
+      "name": "Pre-class 12: Other Climate Solutions",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-12-06T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513897": {
+      "name": "Homework 1: Orientation",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-03T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513899": {
+      "name": "Homework 2: Energy, Power and Electricity",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-16T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513910": {
+      "name": "Homework 3: Fossil Fuel Use",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-16T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513907": {
+      "name": "Homework 4: Nuclear and Wind Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-13T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513915": {
+      "name": "Homework 5: Solar Energy and Hydropower",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-19T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513900": {
+      "name": "Homework 6: Biomass and Geothermal",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-12-08T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513946": {
+      "name": "Midterm 1",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-24T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513941": {
+      "name": "Midterm 2",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-29T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513888": {
+      "name": "Midterm 3",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-12-03T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513938": {
+      "name": "Final Exam",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-12-15T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513927": {
+      "name": "Lesson 1.2 Participation: Calculating Double Time",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-22T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513905": {
+      "name": "Lesson 4.3 Participation: Types of Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-22T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513919": {
+      "name": "Lesson 4.4 Participation: Power Transformation",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-22T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513924": {
+      "name": "Lesson 6.1 Participation: Calculating Efficiency",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-22T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513944": {
+      "name": "Lesson 6.2 Participation: Calculating Efficiency",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-22T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513922": {
+      "name": "Lesson 6.3 Participation: Calculate Power",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-09-22T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513895": {
+      "name": "Lesson 7.2 Participation: Calculating Energy Price",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-07T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513896": {
+      "name": "Lesson 8.1 Participation: Coal",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-07T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513940": {
+      "name": "Lesson 8.3 Participation: Coal",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-07T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513912": {
+      "name": "Lesson 9.1 Participation: Mining",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-07T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513887": {
+      "name": "Lesson 9.2 Participation: Coal usage trend",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-07T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513921": {
+      "name": "Lesson 10.1 Participation: Oil",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-19T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513909": {
+      "name": "Lesson 11.2 Participation: Petroleum",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-19T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513890": {
+      "name": "Lesson 11.3 Participation: Future Petroleum Use",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-19T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513913": {
+      "name": "Lesson 12.1 Participation: Properties of Crude Oil",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-19T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513906": {
+      "name": "Lesson 12.2 Participation: Crude Oil",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-19T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513923": {
+      "name": "Lesson 13.1 Participation: Oil and Gas",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-14T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513925": {
+      "name": "Lesson 13.2 Participation: Natural Gas Chemistry",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-14T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513898": {
+      "name": "Lesson 13.3 Participation: Cleanest Fossil Fuel",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-14T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513918": {
+      "name": "Lesson 14.1 Participation: Natural Gas Use",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-14T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513901": {
+      "name": "Lesson 14.2 Participation: Future Natural Gas Use",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-14T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513908": {
+      "name": "Lesson 15.1 Participation: How CO2 Concentrations Change in the Atmosphere and Why it Matters",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513948": {
+      "name": "Lesson 15.3 Participation: Sea Level Rise",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513931": {
+      "name": "Lesson 16.1 Participation: A Few Key Changes to the Climate by 2100 ",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-10-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513894": {
+      "name": "Lesson 17.1 Participation: Introduction to Nuclear Energy ",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513914": {
+      "name": "Lesson 17.3 Participation: Nuclear Fission",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513889": {
+      "name": "Lesson 18.2 Participation: Inside a Nuclear Reactor",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513902": {
+      "name": "Lesson 19.1 Participation: Risks associated with Nuclear Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513942": {
+      "name": "Lesson 19.2 Participation: Nuclear Waste Disposal",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513926": {
+      "name": "Lesson 19.3 Participation: Future of Nuclear Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513945": {
+      "name": "Lesson 20.2 Participation: Introduction to Wind Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-07T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513911": {
+      "name": "Lesson 21.1 Participation: Understanding How Utilities Generate Electricity",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-07T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513903": {
+      "name": "Lesson 23.1 Participation: The Four Main Uses of Solar Energy",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-12T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513892": {
+      "name": "Lesson 23.2 Participation: Challenges with Solar Energy Production",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-12T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513893": {
+      "name": "Lesson 24.3 Participation: Types of Hydropower",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-17T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513932": {
+      "name": "Lesson 25.2 Participation: World\u2019s Largest Hydropower Projects",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-11-17T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513904": {
+      "name": "Lesson 27.1 Participation: Introduction to Biomass",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-12-08T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513929": {
+      "name": "Lesson 27.3 Participation: How Biomass is Carbon Neutral ",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-12-05T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513920": {
+      "name": "Lesson 28.1 Participation: Introduction to Geothermal",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-12-05T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17513937": {
+      "name": "Lesson 31.1 Participation: Electric Vehicles",
+      "course": "EGEE 101 (FA 25) Energy & Environment (UP Residential Section 002) ",
+      "due_at": "2025-12-09T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842610": {
+      "name": "Unit 1:  This I Believe Recording and Script Final Submission",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-10T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842613": {
+      "name": "Unit 2: Deliberation Issue Summary Handout and In Class Work",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-26T11:15:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842619": {
+      "name": "Unit 3: Issues Brief Final Draft",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-04-21T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842617": {
+      "name": "Unit 3: Advocacy Final Project",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-04-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842620": {
+      "name": "Unit 4: e Portfolio and Reflection Essay Final Project",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-05-04T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842605": {
+      "name": "Passion Post 1",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-24T11:15:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842604": {
+      "name": "Passion Post  2",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-31T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842606": {
+      "name": "Passion Post 3",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-14T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842607": {
+      "name": "Passion Post 4",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-28T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842608": {
+      "name": "Passion Post 5",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-28T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842609": {
+      "name": "Passion Post 6",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-04-11T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842597": {
+      "name": "Civic Issues Post 1",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-24T11:15:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842598": {
+      "name": "Civic Issues Post 2",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-07T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842599": {
+      "name": "Civic Issues Post 3",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-21T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842600": {
+      "name": "Civic Issues Post 4",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-21T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842601": {
+      "name": "Civic Issues Post 5",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-04-04T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842602": {
+      "name": "Civic Issues Post 6",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-04-18T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16887849": {
+      "name": "Blog Responses Grade",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-05-02T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842571": {
+      "name": "HW:  Share your favorite TiB from WPSU and NPR",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-17T11:15:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842587": {
+      "name": "In Class Workshop:  A closer review of student samples",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-26T12:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17031332": {
+      "name": "In Class Workshop 1/27: Values and Beliefs",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-29T12:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17063218": {
+      "name": "Unit 2: Deliberation Self and Peer Evaluation Form",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-07T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842586": {
+      "name": "In Class Workshop:  Analyzing Student Samples",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-24T12:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842614": {
+      "name": "Unit 2: Deliberation Participation *during other team presentations*",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-07T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842569": {
+      "name": "In Class Activity:  Practice with footnotes (and endnotes)",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-21T11:15:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842575": {
+      "name": "Unit 1: TiB Script Rough Draft ",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-31T11:15:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842579": {
+      "name": "Step 4: Framing Your Issue Submission (Form to complete located here)",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-17T12:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842573": {
+      "name": "Unit 3: Issue Brief Rough Draft w/Visuals and Footnotes (or Endnotes)",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-04-14T11:15:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842596": {
+      "name": "Attendance",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-05-02T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842603": {
+      "name": "Participation",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-05-02T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842581": {
+      "name": "Unit 1: TiB Recording Link and Script Rough Draft",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-05T11:15:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842618": {
+      "name": "Unit 3: Issue Brief Rough Outline and Annotated Bibliography",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-04-02T11:15:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17012644": {
+      "name": "In Class Workshop 1/17: TiB Text Analysis",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-17T12:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17012840": {
+      "name": "In Class Activity 1/22:  This I Believe Student Samples",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-22T12:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842564": {
+      "name": "Needs",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-26T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842549": {
+      "name": "Motivation ",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-26T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842545": {
+      "name": "Ethics ",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-26T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842547": {
+      "name": "Judgment",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-05T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842562": {
+      "name": "Providing Feedback",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-27T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842541": {
+      "name": "Audience Analysis ",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-31T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842552": {
+      "name": "Identity",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-17T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842544": {
+      "name": "Narrative",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-17T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842542": {
+      "name": "Public Policy",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-24T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842559": {
+      "name": "Deliberation",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-02-05T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842546": {
+      "name": "Making Policy",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-24T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842567": {
+      "name": "Arranging a Belief Speech",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-22T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842556": {
+      "name": "Choosing a Belief",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-01-22T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16842543": {
+      "name": "Choosing Actions",
+      "course": "ENGL 138T, Section 003: Rcl II (22511--UP---P-ENGL----138T------003-)",
+      "due_at": "2025-03-31T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916185": {
+      "name": "Scholarly Definition: Your Top Three Words ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-03-05T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916203": {
+      "name": "Upload Project 2: Professional Narrative ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-03-01T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916191": {
+      "name": "Introduce Yourself ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-01-15T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916189": {
+      "name": "Reader Response to Writing to Change the World (Introduction through Chapter 3 and Chapter 13) ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-17T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916188": {
+      "name": "Best Writing Discussion from Sample Narratives ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-24T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916187": {
+      "name": "Change of Pace: Which Narrative Wins for \"Best Pacing\" and Why? ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-24T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916190": {
+      "name": "Peer Review for Project One: Professional Portfolio ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-05T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916186": {
+      "name": "Peer Review for Project Two (Self-Annotation)",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-26T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916196": {
+      "name": "Company or Graduate School Audience Profile",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-01-20T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916208": {
+      "name": "Write Your Personal Mission Statement in 3 Sentences ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-03T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916197": {
+      "name": "Cover Letter Strong Verb Practice (a Tricky Assignment!) ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-03T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916201": {
+      "name": "Turn In Your \"I Am From\" Poem ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-24T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916207": {
+      "name": "Write Your Introduction for a Professional Narrative ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-24T09:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916180": {
+      "name": "Condensing Resume Descriptions ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-01-22T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17916202": {
+      "name": "Upload Project 1: Professional Portfolio ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-02-08T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950844": {
+      "name": "L07: zyBooks 5.1-5.4",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-01T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950778": {
+      "name": "Database Design Quiz",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-01T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950782": {
+      "name": "Database Performance Quiz",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950866": {
+      "name": "Lab 6: Database Design - Working with Tables with various Relationships",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-01T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950837": {
+      "name": "L04: zyBooks 2.6-2.11",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-01T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950839": {
+      "name": "L05: zyBooks 3.1-3.4, 3.6, 3.7",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-15T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950842": {
+      "name": "L06: zyBooks 4.1-4.3, 4.6-4.9",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-22T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950774": {
+      "name": "Academic Integrity Acknowledgment for Students",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-01-14T14:15:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950794": {
+      "name": "IST User Webspace: Quiz",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-01-23T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950792": {
+      "name": "PHP Intro: Quiz",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-01T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950819": {
+      "name": "CRUD: Quiz",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950807": {
+      "name": "Complex Queries: Quiz",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-22T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950861": {
+      "name": "Lab 1: phpMyAdmin",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-01-18T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950862": {
+      "name": "Lab 2: Create HTML pages in IST User Webspace",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-01-25T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950863": {
+      "name": "Lab 3: PHP Webpage",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-01T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950864": {
+      "name": "Lab 4: Implement CRUD SQL Statements",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-08T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950865": {
+      "name": "Lab 5: Search and Sort",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-22T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950795": {
+      "name": "Unit 1 - Exam",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-11T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950835": {
+      "name": "L03: Activities PHP and Database Connectivity",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-01-25T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950836": {
+      "name": "L04: Activities CRUD",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-01T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17950838": {
+      "name": "L05: Activities Complex Queries",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-02-15T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599181": {
+      "name": "Homework #3",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-10-16T16:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599182": {
+      "name": "Homework #1",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-09-18T16:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599183": {
+      "name": "Homework #2",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-09-18T16:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599184": {
+      "name": "Homework #6",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-11-13T16:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599185": {
+      "name": "Homework #5",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-11-13T16:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599186": {
+      "name": "Homework #4",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-10-16T16:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599187": {
+      "name": "Homework #7",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-12-16T16:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599188": {
+      "name": "Homework #8",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-12-16T16:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17575933": {
+      "name": "Academic Integrity Enforcement Policy ",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-09-01T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17575936": {
+      "name": "Honor Code Signing  ",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-09-01T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17575935": {
+      "name": "Enable Canvas Announcement Forwarding and Notifications",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-09-01T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599200": {
+      "name": "Exam 1",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-09-18T16:35:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599201": {
+      "name": "Exam 2",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-10-16T16:35:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599202": {
+      "name": "Exam 3",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-11-13T16:35:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599203": {
+      "name": "Exam 4",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-12-15T08:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599198": {
+      "name": "Critical Review 1 - First Draft Due: December 1 (THIS IS THE MONDAY AFTER FALL BREAK)",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-12-05T17:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599199": {
+      "name": "Critical Review 2 - First Draft Due: December 5",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-12-12T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599197": {
+      "name": "Critical Review - The Nature of the Firm",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-09-12T17:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599196": {
+      "name": "Critical Review - The Efficient Market Hypothesis and It's Critics - First Draft Due: September 26",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-10-03T17:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599195": {
+      "name": "Critical Review - The Disposition to Sell Winners Too Early and Ride Losers Too Long:  Theory and Evidence - First Draft Due: October 10",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-10-17T17:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599194": {
+      "name": "Critical Review - Do Stocks Outperform Treasury Bills - First Draft Due: October 24",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-10-31T17:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17599193": {
+      "name": "Ciritcal Review - Trading is Hazardous to Your Wealth - First Draft Due: November 7",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-11-14T17:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17639329": {
+      "name": "Week 2 - Mini-research Project",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-09-09T17:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17757023": {
+      "name": "Critical review 6 - Article Drop Box",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-11-18T18:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17757026": {
+      "name": "Critical Review 6 - Presentation Dropbox",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-11-20T16:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17782131": {
+      "name": "Critical Review 7 - Article Drop Box",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-12-02T18:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17782138": {
+      "name": "Critical Review 7 - Presentation Dropbox",
+      "course": "FIN 301H, Section 001: Honors Finance (22581--UP---P-FIN-----301H------001-)",
+      "due_at": "2025-12-04T16:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17777432": {
+      "name": "Parkscape Timeline (Group Assignment)",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-02-27T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17777407": {
+      "name": "Lesson 1 Quiz - In Support of Wilderness",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-01-23T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17777416": {
+      "name": "Lesson 2 Quiz - Critique of Wilderness",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-01-30T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17777417": {
+      "name": "Lesson 3 Quiz - The U.S. National Parks",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-02-06T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17777406": {
+      "name": "Lesson 4 Quiz - Globalization of Conservation",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-02-13T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17777421": {
+      "name": "Lesson 5 Quiz - National Parks Systems",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-02-20T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17777428": {
+      "name": "Parkscape Choice Report (Individual Assignment)",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-02-13T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17777425": {
+      "name": "Academic Integrity Tutorial | Upload Certificate",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-01-16T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995269": {
+      "name": "L07 Ex. 7.4 More practice on JOINs",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-01T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995271": {
+      "name": "L08 Ex. 8.1 Introduction to Subqueries",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-02T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995274": {
+      "name": "L08: Ex. 8.2 More on Subqueries (2025)",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-02T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995275": {
+      "name": "L08: zyBooks 3.6 - 3.7",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-02T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995299": {
+      "name": "Lab 4 Create Normalized Database",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-04T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995198": {
+      "name": "Unit 4 Quiz Part 1.  2 SQL coding questions (no subqueries)",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-04T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995183": {
+      "name": "Unit 4 Quiz Part 2.  5 SQL coding questions (no subqueries)",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-04T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995213": {
+      "name": "L08 zyBooks Quiz 3.6-3.7 ",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-02T14:37:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "18110807": {
+      "name": "SDR Drop Box",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-25T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995234": {
+      "name": "L02 Ex. 2.1 Exploring MySQL workbench.docx",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-14T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995235": {
+      "name": "L02 Ex. 2.2 Create database",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-14T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995236": {
+      "name": "L02 Ex. 2.3 Create table using wizard",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-14T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995237": {
+      "name": "L02 Ex. 2.4 Create database and tables using SQL",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-21T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995238": {
+      "name": "L02 Ex. 2.5 Import data",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-21T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995239": {
+      "name": "L02 Ex. 2.6 SHOW and USE  ",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-21T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995241": {
+      "name": "L03 Ex. 3.1 Practice Data Import",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-01T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995242": {
+      "name": "L04 Ex. 4.1 Basics of selecting data",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-02T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995243": {
+      "name": "L04 Ex. 4.2 Refine select queries",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-02T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995244": {
+      "name": "L04 Ex. 4.3 Filter results with WHERE",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-02T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995245": {
+      "name": "L04 Ex. 4.4 SELECT using IN and LIKE",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-02T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995246": {
+      "name": "L04 Ex. 4.5 Practice SELECTS",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-04T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995247": {
+      "name": "L04 Ex. 4.6 INSERT",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-04T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995248": {
+      "name": "L04 Ex. 4.7 UPDATE",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-04T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995249": {
+      "name": "L04 Ex. 4.8 DELETE",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-04T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995250": {
+      "name": "L04 Ex. 4.9 Practice INSERT, UPDATE, DELETE",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-09T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995252": {
+      "name": "L05 Ex. 5.0 Create new moviesbasic schema for Unit Quiz",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-09T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995253": {
+      "name": "L05 Ex. 5.1 Brief on Data Integrity",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-09T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995254": {
+      "name": "L05 Ex. 5.2 Foreign Keys and Referential Integrity",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-09T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995255": {
+      "name": "L05 Ex. 5.3 Referential Integrity Constraints examples",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-16T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995256": {
+      "name": "L06 Ex. 6.25 Create Normalized Movie Database",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-18T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995262": {
+      "name": "L06: Ex. 6.0 Re-import clean movies basic",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-16T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995258": {
+      "name": "L06 Ex. 6.1 Aggregate Functions",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-16T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995263": {
+      "name": "L06: Ex. 6.2 Practice Aggregate Functions",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-18T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995260": {
+      "name": "L06 Ex. 6.4  INNER JOIN",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-18T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995261": {
+      "name": "L06 Ex. 6.5 Practice JOINs with two tables",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-23T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995265": {
+      "name": "L07 Ex. 7.0 Reverse engineer movies full EERD",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-23T15:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995266": {
+      "name": "L07 Ex. 7.1 Multiple JOINs",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-23T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995267": {
+      "name": "L07 Ex. 7.2 OUTER JOINs",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-23T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995268": {
+      "name": "L07 Ex. 7.3 Practice JOINs",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-25T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995233": {
+      "name": "L01: zyBooks 1.1 \u2013 1.5",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-14T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995240": {
+      "name": "L02: zyBooks 2.1 - 2.5",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-21T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995251": {
+      "name": "L04: zyBooks 2.6 - 2.8 ",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-02T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995257": {
+      "name": "L05 zyBooks 2.9 - 2.12",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-09T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995264": {
+      "name": "L06: zyBooks 3.1 - 3.3",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-16T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995270": {
+      "name": "L07: zyBooks 3.4 - 3.5",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-23T14:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995296": {
+      "name": "Lab 1 Install MySQL",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-14T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995297": {
+      "name": "Lab 2 Create database",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-28T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995298": {
+      "name": "Lab 3 SELECT  INSERT UPDATE DELETE",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-11T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995206": {
+      "name": " Units 1 & 2 Quiz --> USE MySQL Workbench",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-28T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995186": {
+      "name": "Unit 3 Quiz Multiple Choice",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-11T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995230": {
+      "name": "Unit 3 Quiz SQL Queries (Spr 2025)",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-11T15:45:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995210": {
+      "name": "Academic Integrity Acknowledgment for Students",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-18T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995190": {
+      "name": " L01 zyBooks Quiz 1.1 - 1.5  ",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-14T14:37:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995195": {
+      "name": "L02 zyBooks Quiz 2.1-2.5 ",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-01-21T14:55:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995215": {
+      "name": "L04 zyBooks Quiz 2.6-2.8",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-02T14:37:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995219": {
+      "name": "L05 zyBooks  Quiz 2.9-2.12  ",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-09T14:37:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995202": {
+      "name": "L06 zyBooks Quiz 3.1-3.3",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-16T14:37:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17995182": {
+      "name": "L07 zyBooks Quiz 3.4-3.5 ",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-02-23T14:37:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16746519": {
+      "name": "Week 1 Journal",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-01-19T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16776270": {
+      "name": "Wellness Assignment",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-01-19T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16776338": {
+      "name": "Week 2 Journal",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-01-26T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16776339": {
+      "name": "Fitness test",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-01-26T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16819054": {
+      "name": "Week 3 Journal ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-02T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16819056": {
+      "name": "Goal Assignment",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-02T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16819138": {
+      "name": "Week 4 Journal ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-09T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "16819139": {
+      "name": "Heart Health Assignment ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-09T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17019843": {
+      "name": "Week 5 Journal ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-16T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17019844": {
+      "name": "Heart Rate Zones Assignment  ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-16T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17019875": {
+      "name": "Week 6 Journal  ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-23T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17019876": {
+      "name": "Muscular Assessment Assignment ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-23T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17021919": {
+      "name": "Week 7 Journal  ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-03-02T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17021920": {
+      "name": "Goal Check in #1",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-03-02T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17032864": {
+      "name": "Quiz 1- Canvas",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-02-07T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17042068": {
+      "name": "Week 8 Journal   ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-03-09T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17042069": {
+      "name": "Low Back Assignment",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-03-09T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17059216": {
+      "name": "Week 9 Journal   ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-03-23T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17059217": {
+      "name": "Food and Exercise Log Analysis",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-03-30T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17059296": {
+      "name": "Week 10 Journal   ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-03-30T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17070092": {
+      "name": "Quiz 2 Canvas 2-27",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-03-02T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17078818": {
+      "name": "Week 11 Journal   ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-06T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17078825": {
+      "name": "Sports Nutrition Assignment",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-13T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17078826": {
+      "name": "Week 12 Journal   ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-13T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17078827": {
+      "name": "Calorie Needs Calculation Assignment",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-13T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17093167": {
+      "name": "Week 13 Journal   ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-20T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17093168": {
+      "name": "Summer workout plan",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-20T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17104744": {
+      "name": "Week 14 Journal   ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-27T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17104745": {
+      "name": "Stress Management Assignment",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-27T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17104762": {
+      "name": "Week 15 Journal    ",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-05-04T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17104763": {
+      "name": "Goal Final Check-in",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-05-04T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17143053": {
+      "name": "Quiz 4",
+      "course": "KINES 160N, Section 003: Biology of Exercis (22511--UP---P-KINES---160N------003-)",
+      "due_at": "2025-04-29T23:59:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17872959": {
+      "name": "HW1",
+      "course": "Section Merge: MIS301-SP26",
+      "due_at": "2026-02-01T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17872960": {
+      "name": "HW2",
+      "course": "Section Merge: MIS301-SP26",
+      "due_at": "2026-02-08T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17872951": {
+      "name": "Exam 1",
+      "course": "Section Merge: MIS301-SP26",
+      "due_at": "2026-02-10T16:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514049": {
+      "name": "Secondary market research",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-09-30T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514044": {
+      "name": "Primary market research --> interview insights (qualitative)",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-10-19T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514046": {
+      "name": "Primary market research --> programmed survey (quantitative)",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-03T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514033": {
+      "name": "IMC ",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-11T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514053": {
+      "name": "Special Topics Presentation",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-12-04T09:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514056": {
+      "name": "Special Topics Presentation - Proposal",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-14T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17744853": {
+      "name": "IMC Pitch evaluations ",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-17T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514018": {
+      "name": "HW1",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-08-28T09:00:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514024": {
+      "name": "HW2",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-09-02T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514025": {
+      "name": "HW3",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-09-04T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514026": {
+      "name": "HW4",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-09-11T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514027": {
+      "name": "HW5",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-09-16T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514028": {
+      "name": "HW6",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-09-23T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514029": {
+      "name": "HW7",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-09-25T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514030": {
+      "name": "HW8",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-10-02T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514031": {
+      "name": "HW9 ",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-10-09T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17689346": {
+      "name": "HW10",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-10-14T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514019": {
+      "name": "HW11",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-10-28T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514021": {
+      "name": "HW12",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-04T09:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514022": {
+      "name": "HW13",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-13T09:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514023": {
+      "name": "HW14 ",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-18T09:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514004": {
+      "name": "Case Report Product ",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-10-23T09:05:00-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514048": {
+      "name": "Rewrite 'Product' ",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-12-05T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514008": {
+      "name": "Exam Part A",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2024-10-08T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514009": {
+      "name": "Exam Part B",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-20T09:05:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514011": {
+      "name": "Extra credit 1",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-09-25T23:59:59-04:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17731917": {
+      "name": "Extra credit: survey fielding and analysis",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-11-11T23:59:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17514042": {
+      "name": "Peer evaluation ",
+      "course": "MKTG 301H Principles of Marketing Honors FA25",
+      "due_at": "2025-12-16T23:59:59-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17794207": {
+      "name": "Homework #6",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-03-04T08:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17794191": {
+      "name": "SCM 301 - Spring 2026 - Exam #2- Requires Respondus LockDown Browser",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-03-04T23:30:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17794199": {
+      "name": "Homework #1",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-01-29T08:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17794203": {
+      "name": "Homework #2",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-02-03T08:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17794204": {
+      "name": "Homework #3",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-02-10T08:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17794205": {
+      "name": "Homework #4",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-02-19T08:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17794206": {
+      "name": "Homework #5",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-02-26T08:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    },
+    "17794195": {
+      "name": "Extra Credit Assignment #1",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-02-17T08:00:00-05:00",
+      "first_seen": "2026-02-27T00:23:02.426826-05:00"
+    }
+  }
 }
