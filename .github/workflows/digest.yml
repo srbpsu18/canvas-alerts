@@ -2,12 +2,11 @@ name: Canvas Digest
 
 on:
   schedule:
-    # Morning: 8am ET (two crons for DST)
-    - cron: '0 13 * * *'   # 1pm UTC = 8am EST (Nov-Mar)
-    - cron: '0 12 * * *'   # 12pm UTC = 8am EDT (Mar-Nov)
-    # Evening: 8pm ET
-    - cron: '0 1 * * *'    # 1am UTC = 8pm EST (Nov-Mar)
-    - cron: '0 0 * * *'    # 12am UTC = 8pm EDT (Mar-Nov)
+    # All four crons cover both EST and EDT; the gate job skips the wrong one
+    - cron: '0 12 * * *'   # 8am EDT
+    - cron: '0 13 * * *'   # 8am EST
+    - cron: '0 0 * * *'    # 8pm EDT
+    - cron: '0 1 * * *'    # 8pm EST
   workflow_dispatch:
     inputs:
       mode:
@@ -18,7 +17,30 @@ permissions:
   contents: write
 
 jobs:
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      mode: ${{ steps.check.outputs.mode }}
+    steps:
+      - name: Timezone gate
+        id: check
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ github.event.inputs.mode }}" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          ET_HOUR=$(TZ=America/New_York date +%H)
+          if [ "$ET_HOUR" = "08" ]; then
+            echo "mode=morning" >> "$GITHUB_OUTPUT"
+          elif [ "$ET_HOUR" = "20" ]; then
+            echo "mode=evening" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::Skipping — ET hour is $ET_HOUR (expected 08 or 20)"
+          fi
+
   digest:
+    needs: gate
+    if: needs.gate.outputs.mode != ''
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -36,7 +58,7 @@ jobs:
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
-          DIGEST_MODE: ${{ github.event.inputs.mode || '' }}
+          DIGEST_MODE: ${{ needs.gate.outputs.mode }}
         run: python canvas_alerts.py
 
       - name: Commit state
