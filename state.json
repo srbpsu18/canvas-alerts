@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-01T08:33:51.823684-05:00",
+  "last_morning_run": "2026-03-02T08:54:24.467368-05:00",
   "last_evening_run": "2026-03-01T22:26:37.823074-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2089,6 +2089,12 @@
       "course": "GEOG 1N: Parks & Sustainability (SP 26)",
       "due_at": "2026-03-06T23:59:00-05:00",
       "first_seen": "2026-02-28T07:32:53.368077-05:00"
+    },
+    "17950867": {
+      "name": "Lab 7: Database Performance - Indexing and Query Processing Lab",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-08T23:59:00-04:00",
+      "first_seen": "2026-03-02T08:54:24.467368-05:00"
     }
   }
 }
