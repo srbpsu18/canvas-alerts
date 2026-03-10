@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-09T08:48:15.406208-04:00",
+  "last_morning_run": "2026-03-10T08:45:23.738736-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2101,6 +2101,18 @@
       "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
       "due_at": "2026-03-15T23:59:00-04:00",
       "first_seen": "2026-03-09T08:48:15.406208-04:00"
+    },
+    "17995272": {
+      "name": "L08 Ex. 8.3 Practice Subqueries Part 1 (#1,2,3)",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-16T14:30:00-04:00",
+      "first_seen": "2026-03-10T08:45:23.738736-04:00"
+    },
+    "17995277": {
+      "name": "L09 Ex. 9.1 Correlated Subqueries",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-16T15:45:00-04:00",
+      "first_seen": "2026-03-10T08:45:23.738736-04:00"
     }
   }
 }
