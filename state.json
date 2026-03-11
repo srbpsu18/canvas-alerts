@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-10T08:45:23.738736-04:00",
+  "last_morning_run": "2026-03-11T08:44:26.587791-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2113,6 +2113,12 @@
       "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
       "due_at": "2026-03-16T15:45:00-04:00",
       "first_seen": "2026-03-10T08:45:23.738736-04:00"
+    },
+    "17794190": {
+      "name": "SCM 301 - Spring 2026 - Exam #1- Requires Respondus LockDown Browser",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-03-17T18:30:00-04:00",
+      "first_seen": "2026-03-11T08:44:26.587791-04:00"
     }
   }
 }
