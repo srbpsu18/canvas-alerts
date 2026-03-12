@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-11T08:44:26.587791-04:00",
+  "last_morning_run": "2026-03-12T08:44:16.678930-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2119,6 +2119,36 @@
       "course": "Section Merge: SCM 301 - Solo - Spring 2026",
       "due_at": "2026-03-17T18:30:00-04:00",
       "first_seen": "2026-03-11T08:44:26.587791-04:00"
+    },
+    "17950790": {
+      "name": "Transaction Management Quiz",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-18T23:59:00-04:00",
+      "first_seen": "2026-03-12T08:44:16.678930-04:00"
+    },
+    "17995273": {
+      "name": "L08 Ex. 8.3 Practice Subqueries Part 2 (#4 to end)",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-18T14:30:00-04:00",
+      "first_seen": "2026-03-12T08:44:16.678930-04:00"
+    },
+    "17995281": {
+      "name": "L10 Ex. 10.1 Create VIEW table",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-18T15:45:00-04:00",
+      "first_seen": "2026-03-12T08:44:16.678930-04:00"
+    },
+    "17995282": {
+      "name": "L10 Ex. 10.2 Query VIEW",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-18T15:45:00-04:00",
+      "first_seen": "2026-03-12T08:44:16.678930-04:00"
+    },
+    "17794196": {
+      "name": "Extra Credit Assignment #2",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-03-19T08:00:00-04:00",
+      "first_seen": "2026-03-12T08:44:16.678930-04:00"
     }
   }
 }
