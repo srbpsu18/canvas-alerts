@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-15T08:38:54.770708-04:00",
+  "last_morning_run": "2026-03-16T08:57:45.831292-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2167,6 +2167,24 @@
       "course": "GEOG 1N: Parks & Sustainability (SP 26)",
       "due_at": "2026-03-20T23:59:00-04:00",
       "first_seen": "2026-03-14T08:36:57.964648-04:00"
+    },
+    "17950850": {
+      "name": "L09: zyBooks 7.1-7.7",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-22T23:59:00-04:00",
+      "first_seen": "2026-03-16T08:57:45.831292-04:00"
+    },
+    "17950868": {
+      "name": "Lab 8: Transaction Management",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-22T23:59:00-04:00",
+      "first_seen": "2026-03-16T08:57:45.831292-04:00"
+    },
+    "17872961": {
+      "name": "HW3",
+      "course": "Section Merge: MIS301-SP26",
+      "due_at": "2026-03-22T23:59:59-04:00",
+      "first_seen": "2026-03-16T08:57:45.831292-04:00"
     }
   }
 }
