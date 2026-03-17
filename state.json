@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-16T08:57:45.831292-04:00",
+  "last_morning_run": "2026-03-17T08:58:56.658732-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2185,6 +2185,48 @@
       "course": "Section Merge: MIS301-SP26",
       "due_at": "2026-03-22T23:59:59-04:00",
       "first_seen": "2026-03-16T08:57:45.831292-04:00"
+    },
+    "17950791": {
+      "name": "Unit 2 - Exam",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-23T23:59:59-04:00",
+      "first_seen": "2026-03-17T08:58:56.658732-04:00"
+    },
+    "17995278": {
+      "name": "L09 Ex. 9.2 Practice Correlated Subqueries",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-18T15:45:00-04:00",
+      "first_seen": "2026-03-17T08:58:56.658732-04:00"
+    },
+    "17995276": {
+      "name": "L09 9.3 More Practice on Subqueries",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-23T15:45:00-04:00",
+      "first_seen": "2026-03-17T08:58:56.658732-04:00"
+    },
+    "17995279": {
+      "name": "L09 Ex. 9.4 More Practice on Subqueries",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-23T15:45:00-04:00",
+      "first_seen": "2026-03-17T08:58:56.658732-04:00"
+    },
+    "17995283": {
+      "name": "L10 Ex. 10.3 Practice views and subqueries",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-23T14:30:00-04:00",
+      "first_seen": "2026-03-17T08:58:56.658732-04:00"
+    },
+    "17995284": {
+      "name": "L10: zyBooks 3.8",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-23T14:30:00-04:00",
+      "first_seen": "2026-03-17T08:58:56.658732-04:00"
+    },
+    "17794208": {
+      "name": "Homework #7",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-03-24T08:00:00-04:00",
+      "first_seen": "2026-03-17T08:58:56.658732-04:00"
     }
   }
 }
