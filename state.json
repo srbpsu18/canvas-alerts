@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-17T08:58:56.658732-04:00",
+  "last_morning_run": "2026-03-18T08:57:29.189068-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2227,6 +2227,12 @@
       "course": "Section Merge: SCM 301 - Solo - Spring 2026",
       "due_at": "2026-03-24T08:00:00-04:00",
       "first_seen": "2026-03-17T08:58:56.658732-04:00"
+    },
+    "17916182": {
+      "name": "The Four Weakness of Academic Writing ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-03-24T23:59:59-04:00",
+      "first_seen": "2026-03-18T08:57:29.189068-04:00"
     }
   }
 }
