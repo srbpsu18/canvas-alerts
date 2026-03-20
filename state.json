@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-19T08:51:56.205954-04:00",
+  "last_morning_run": "2026-03-20T08:44:06.479556-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2239,6 +2239,12 @@
       "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
       "due_at": "2026-03-25T15:45:00-04:00",
       "first_seen": "2026-03-19T08:51:56.205954-04:00"
+    },
+    "17916179": {
+      "name": "Fun Multiple Choice Quiz on Integrating Sources and In-Text Citation ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-03-26T23:59:59-04:00",
+      "first_seen": "2026-03-20T08:44:06.479556-04:00"
     }
   }
 }
