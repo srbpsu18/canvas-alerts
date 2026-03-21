@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-20T08:44:06.479556-04:00",
+  "last_morning_run": "2026-03-21T08:35:29.456274-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2245,6 +2245,30 @@
       "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
       "due_at": "2026-03-26T23:59:59-04:00",
       "first_seen": "2026-03-20T08:44:06.479556-04:00"
+    },
+    "17950787": {
+      "name": "Database Architecture Quiz",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-03-27T23:59:59-04:00",
+      "first_seen": "2026-03-21T08:35:29.456274-04:00"
+    },
+    "17777413": {
+      "name": "Lesson 8 Video Quiz - Part 1: Protected Area Governance- New",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-03-27T23:59:00-04:00",
+      "first_seen": "2026-03-21T08:35:29.456274-04:00"
+    },
+    "17777418": {
+      "name": "Lesson 8 Video Quiz- Part 2: National Marine Sanctuaries- New",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-03-27T23:59:00-04:00",
+      "first_seen": "2026-03-21T08:35:29.456274-04:00"
+    },
+    "17995300": {
+      "name": "Lab 5 JOINS",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-03-27T23:59:00-04:00",
+      "first_seen": "2026-03-21T08:35:29.456274-04:00"
     }
   }
 }
