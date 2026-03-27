@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-03-25T08:56:09.852010-04:00",
+  "last_morning_run": "2026-03-27T08:52:38.178390-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2311,6 +2311,42 @@
       "course": "Section Merge: SCM 301 - Solo - Spring 2026",
       "due_at": "2026-03-31T08:00:00-04:00",
       "first_seen": "2026-03-24T08:58:21.723658-04:00"
+    },
+    "17916184": {
+      "name": "Response to Chapter 7-8 in Writing to Change the World",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-04-02T09:00:00-04:00",
+      "first_seen": "2026-03-27T08:52:38.178390-04:00"
+    },
+    "17916199": {
+      "name": "Rhetorical Analysis Identification Assignment",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-04-02T09:00:00-04:00",
+      "first_seen": "2026-03-27T08:52:38.178390-04:00"
+    },
+    "17995288": {
+      "name": "L11 Ex. 11.4 Create EERD with relationships",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-04-01T15:45:00-04:00",
+      "first_seen": "2026-03-27T08:52:38.178390-04:00"
+    },
+    "17995289": {
+      "name": "L11 Ex. 11.5 Create EERD MyFlix",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-04-01T15:45:00-04:00",
+      "first_seen": "2026-03-27T08:52:38.178390-04:00"
+    },
+    "17995290": {
+      "name": "L11 Ex. 11.6 EERD Practice Problem",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-04-01T15:45:00-04:00",
+      "first_seen": "2026-03-27T08:52:38.178390-04:00"
+    },
+    "17872952": {
+      "name": "Exam 2",
+      "course": "Section Merge: MIS301-SP26",
+      "due_at": "2026-03-26T13:35:00-04:00",
+      "first_seen": "2026-03-27T08:52:38.178390-04:00"
     }
   }
 }
