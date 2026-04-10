@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-04-06T08:57:45.014819-04:00",
+  "last_morning_run": "2026-04-10T08:57:25.840520-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2449,6 +2449,24 @@
       "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
       "due_at": "2026-04-12T23:59:59-04:00",
       "first_seen": "2026-04-06T08:57:45.014819-04:00"
+    },
+    "17916198": {
+      "name": "Response to Chapters 9-12, 14, and Coda in Writing to Change the World (and Mr. Roger's Video) ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-04-16T09:00:00-04:00",
+      "first_seen": "2026-04-10T08:57:25.840520-04:00"
+    },
+    "17794197": {
+      "name": "Extra Credit Assignment #3",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-04-16T08:00:00-04:00",
+      "first_seen": "2026-04-10T08:57:25.840520-04:00"
+    },
+    "17794188": {
+      "name": "SCM 301 - Spring 2026 - Exam #3- Requires Respondus LockDown Browser",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-04-15T12:30:00-04:00",
+      "first_seen": "2026-04-10T08:57:25.840520-04:00"
     }
   }
 }
