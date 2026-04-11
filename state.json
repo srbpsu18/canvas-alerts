@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-04-10T08:57:25.840520-04:00",
+  "last_morning_run": "2026-04-11T08:43:05.282901-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2467,6 +2467,12 @@
       "course": "Section Merge: SCM 301 - Solo - Spring 2026",
       "due_at": "2026-04-15T12:30:00-04:00",
       "first_seen": "2026-04-10T08:57:25.840520-04:00"
+    },
+    "17777408": {
+      "name": "Lesson 11 Quiz - Water Policy",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-04-17T23:59:00-04:00",
+      "first_seen": "2026-04-11T08:43:05.282901-04:00"
     }
   }
 }
