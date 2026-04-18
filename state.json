@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-04-12T08:49:02.951141-04:00",
+  "last_morning_run": "2026-04-18T08:50:51.737049-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2473,6 +2473,60 @@
       "course": "GEOG 1N: Parks & Sustainability (SP 26)",
       "due_at": "2026-04-17T23:59:00-04:00",
       "first_seen": "2026-04-11T08:43:05.282901-04:00"
+    },
+    "17916181": {
+      "name": "Concise Sentences ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-04-23T23:59:59-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "17950860": {
+      "name": "Lab 12: Practicing NoSQL with MongoDB",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-04-19T23:59:00-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "18241478": {
+      "name": "Unit 3 - Exam",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-04-22T14:30:00-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "18238556": {
+      "name": "MongoDB Queries",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-04-15T14:15:00-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "17777415": {
+      "name": "Lesson 12 Quiz - Parks and Climate Change",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-04-24T23:59:00-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "17777424": {
+      "name": " Participation Commitment for the Parkscape Final Video Project",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-04-24T23:59:00-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "17995302": {
+      "name": "Project Part I",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-04-20T14:30:00-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "17872963": {
+      "name": "HW4",
+      "course": "Section Merge: MIS301-SP26",
+      "due_at": "2026-04-19T23:59:00-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "17794200": {
+      "name": "Homework #10",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-04-21T08:00:00-04:00",
+      "first_seen": "2026-04-18T08:50:51.737049-04:00"
     }
   }
 }
