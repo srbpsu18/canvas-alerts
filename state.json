@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-04-19T08:47:58.323187-04:00",
+  "last_morning_run": "2026-04-25T08:51:28.490157-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2527,6 +2527,60 @@
       "course": "Section Merge: SCM 301 - Solo - Spring 2026",
       "due_at": "2026-04-21T08:00:00-04:00",
       "first_seen": "2026-04-18T08:50:51.737049-04:00"
+    },
+    "17916183": {
+      "name": "Peer Review for Project Four: Call-to-Action / OpEd ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-04-30T23:59:59-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "17950831": {
+      "name": "Final Project",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-05-01T23:59:00-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "18201905": {
+      "name": "Cumulative Final Exam (OPTIONAL)",
+      "course": "ETI 461, Section 001: DATABASE ADMIN (22611--UP---P-ETI-----461-------001-)",
+      "due_at": "2026-05-01T23:59:00-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "17777420": {
+      "name": "Lesson 13 Video Quiz - Part 2: Going Green in Philadelphia- New",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-05-01T23:59:00-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "17777410": {
+      "name": "Lesson 13 Video Quiz - Part 1: The Bronx- New",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-05-01T23:59:00-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "17777414": {
+      "name": "Extra Credit Quiz - Climate Change",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-05-01T23:59:59-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "17995303": {
+      "name": "Project Part II",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-04-27T14:30:00-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "17872956": {
+      "name": "Final Project - Presentation Slides Submission",
+      "course": "Section Merge: MIS301-SP26",
+      "due_at": "2026-04-26T23:59:00-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "17794201": {
+      "name": "Homework #11",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-04-28T08:00:00-04:00",
+      "first_seen": "2026-04-25T08:51:28.490157-04:00"
     }
   }
 }
