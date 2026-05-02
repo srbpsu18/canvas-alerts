@@ -1,5 +1,5 @@
 {
-  "last_morning_run": "2026-04-26T08:53:35.205003-04:00",
+  "last_morning_run": "2026-05-02T08:56:15.839744-04:00",
   "last_evening_run": "2026-03-07T20:09:13.597166-05:00",
   "seen_assignments": {
     "16884851": {
@@ -2581,6 +2581,66 @@
       "course": "Section Merge: SCM 301 - Solo - Spring 2026",
       "due_at": "2026-04-28T08:00:00-04:00",
       "first_seen": "2026-04-25T08:51:28.490157-04:00"
+    },
+    "17916205": {
+      "name": "Upload Project 4: Call-to-Action ",
+      "course": "ENGL 202H, Section 004: Effective Writing: Honors (22611--UP---P-ENGL----202H------004-)",
+      "due_at": "2026-05-03T23:59:59-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "17777430": {
+      "name": "Parkscape Final Video Submission (Group Assignment)",
+      "course": "GEOG 1N: Parks & Sustainability (SP 26)",
+      "due_at": "2026-05-05T23:59:00-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "17995229": {
+      "name": "Final Part I. Multiple Choice New",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-05-04T20:40:00-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "17995194": {
+      "name": "Final Part II. SQL",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-05-04T19:20:00-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "17995227": {
+      "name": "Final Part III. Design",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-05-04T20:40:00-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "17995304": {
+      "name": "Project Part III",
+      "course": "IST 210, Section 002: Org Data (22611--UP---P-IST-----210-------002-)",
+      "due_at": "2026-05-04T23:59:00-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "18247977": {
+      "name": "HW 5",
+      "course": "Section Merge: MIS301-SP26",
+      "due_at": "2026-05-03T23:59:59-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "17794202": {
+      "name": "Homework #12",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-05-03T23:59:00-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "17794198": {
+      "name": "Extra Credit Assignment #4",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-05-03T23:59:00-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
+    },
+    "17794189": {
+      "name": "SCM 301 - Spring 2026 - Exam #4- Requires Respondus LockDown Browser",
+      "course": "Section Merge: SCM 301 - Solo - Spring 2026",
+      "due_at": "2026-05-05T17:55:00-04:00",
+      "first_seen": "2026-05-02T08:56:15.839744-04:00"
     }
   }
 }
